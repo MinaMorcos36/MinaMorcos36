@@ -31,4 +31,4 @@ I enjoy turning complex requirements into clean, maintainable systems.
 
 ### 📫 Contact
 - LinkedIn: [Visit Profile](https://www.linkedin.com/in/mina-morcos-mina/)
-- Email: minamorcosmina1@gmail.com
+- Email: minanew0@gmail.com
