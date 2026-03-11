@@ -33,5 +33,8 @@ I enjoy turning complex requirements into clean, maintainable systems.
 - LinkedIn: [Visit Profile](https://www.linkedin.com/in/mina-morcos-mina/)
 - Email: minanew0@gmail.com
 
+## 📊 Contribution Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MinaMorcos36&theme=github-dark)
+
 ## 🐍 Contribution Snake
 ![snake gif](https://github.com/MinaMorcos36/MinaMorcos36/blob/output/github-contribution-grid-snake.svg)
