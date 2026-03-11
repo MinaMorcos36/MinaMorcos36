@@ -32,3 +32,6 @@ I enjoy turning complex requirements into clean, maintainable systems.
 ### 📫 Contact
 - LinkedIn: [Visit Profile](https://www.linkedin.com/in/mina-morcos-mina/)
 - Email: minanew0@gmail.com
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/MinaMorcos36/MinaMorcos36/blob/output/github-contribution-grid-snake.svg)
