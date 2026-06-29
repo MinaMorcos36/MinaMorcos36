@@ -31,7 +31,7 @@ I enjoy turning complex requirements into clean, maintainable systems.
 
 ### 📫 Contact
 - LinkedIn: [Visit Profile](https://www.linkedin.com/in/mina-morcos-mina/)
-- Email: minanew0@gmail.com
+- Email: mina.morcos.minaa@gmail.com
 
 ## 📊 Contribution Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MinaMorcos36&theme=github-dark)
